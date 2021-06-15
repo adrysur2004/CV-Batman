@@ -1,0 +1,48 @@
+/*título y subtítulos*/
+h1, h2{
+    color: #005677;
+    letter-spacing:10px;
+    background-color: #C4C4C4;
+}
+
+h1{
+    text-align: center;
+}
+header{
+    background-color: #e6e6e6;
+}
+h2{ 
+    width: 1041px;
+    height: 30px;
+    left: 225px;
+
+    top: 352px;
+
+}
+/*centrado del logo*/
+.centrado{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Estilos de fuente para las fechas*/
+span{
+    font-style: italic;
+    font-weight: bold;
+}
+
+/*Decoración del footer*/
+p{
+    background-color: #005677;
+    color: white;
+    font-size: 20px;
+    
+    text-align: center;
+}
+/*Color de fondo del body*/
+body{
+    font-family: 'Times New Roman';
+    background-color: #e5e5e5;
+}
+
